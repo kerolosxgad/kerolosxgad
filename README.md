@@ -5,10 +5,3 @@
   <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=kerolosxgad&&count_private=true&show_icons=true&hide_border=true&hide=prs&theme=dark">
    <img src="https://github-readme-stats.mrdulin.vercel.app/api/top-langs/?username=kerolosxgad&&count_private=true&layout=compact&hide_border=true&theme=dark&show_icons=true">
 </p>
-
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/kerolosxgad/count.svg" alt="counter" /></td>
-  </tr>
-</table>
