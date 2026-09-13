@@ -40,14 +40,21 @@ jobs:
           max-languages: 8            # not language-count
 
   # ---- trophies -----------------------------------------------------------
-  # continue-on-error so a break in this fork's feature branch doesn't stop
-  # the activity job from running.
+  # No continue-on-error: it reports the job green even when the step fails,
+  # which hides exactly this kind of push error. activity runs regardless
+  # because of its `if: always()`.
   trophy:
     needs: stats
     runs-on: ubuntu-latest
-    continue-on-error: true
     steps:
+      # ref: pins to the branch TIP. Without it checkout lands on github.sha,
+      # the commit that triggered the run, which is already behind after the
+      # stats job pushed - and the commit step below gets rejected.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - run: git pull --rebase origin ${{ github.ref_name }}
 
       - uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
@@ -67,6 +74,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
 
       - uses: lowlighter/metrics@latest
         with:
@@ -92,6 +101,8 @@ jobs:
         with:
           github_user_name: kerolosxgad
           outputs: images/snake.svg
+
+      - run: git pull --rebase origin ${{ github.ref_name }}
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
