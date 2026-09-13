@@ -101,10 +101,3 @@ jobs:
         with:
           github_user_name: kerolosxgad
           outputs: images/snake.svg
-
-      - run: git pull --rebase origin ${{ github.ref_name }}
-
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update activity graphs"
-          file_pattern: images/*.svg
