@@ -77,8 +77,7 @@
 
 <div align="center">
 
-<img src="./images/userstats.svg" width="49%" alt="stats" />
-<img src="./images/langs.svg" width="49%" alt="languages" />
+<img src="./images/userstats.svg" alt="stats" />
 
 <img src="./images/trophy.svg" alt="trophies" />
 
