@@ -4,9 +4,9 @@
 
 **Software Engineer & Tech Consultant**
 
-- 📫 Reach me at **contact@kerolosxgad.com**
-- 👨‍💻 Projects: **[kerolosxgad.com](https://www.kerolosxgad.com)**
-- 📝 I write at **[kerolosxgad.com/writing](https://www.kerolosxgad.com/writing)**
+📫 Reach me at **contact@kerolosxgad.com**
+👨‍💻 Projects: **[kerolosxgad.com](https://www.kerolosxgad.com)**
+📝 I write at **[kerolosxgad.com/writing](https://www.kerolosxgad.com/writing)**
 
 
 [![Website](https://img.shields.io/badge/kerolosxgad.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kerolosxgad.com)
