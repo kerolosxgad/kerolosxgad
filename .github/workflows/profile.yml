@@ -1,16 +1,4 @@
 # .github/workflows/profile.yml  (in kerolosxgad/kerolosxgad)
-#
-# Setup
-# -----
-# 1. Settings -> Actions -> General -> Workflow permissions
-#       -> "Read and write permissions"
-# 2. Settings -> Secrets and variables -> Actions -> New repository secret
-#       Name:  PROFILE_TOKEN
-#       Value: your classic PAT (read:user + public_repo, no expiry)
-# 3. Actions tab -> "Profile assets" -> Run workflow, once, to seed images/.
-#
-# Jobs are chained with needs: so only one of them ever holds the branch.
-# Each job re-checks-out, so it always starts from the previous job's commit.
 
 name: Profile assets
 
@@ -23,34 +11,36 @@ permissions:
   contents: write
 
 jobs:
-  # ---- stats card + language breakdown -------------------------------------
-  # user-statistician commits and pushes on its own, so no commit step here.
+  # ---- stats card + language chart ----------------------------------------
+  # user-statistician commits and pushes by itself. fail-on-error left at its
+  # default (true) on purpose, so a bad input shows up as a red job instead of
+  # a silently missing file.
   stats:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: Overall stats
+      - name: Full stats card
         uses: cicirello/user-statistician@v1
         with:
           image-file: images/userstats.svg
           colors: dark
-          hide-keys: joined
-          fail-on-error: false
 
-      - name: Languages only
+      - name: Language chart only
         uses: cicirello/user-statistician@v1
         with:
           image-file: images/langs.svg
           colors: dark
-          hide-keys: general, repositories, contributions
-          language-count: 8
-          fail-on-error: false
+          category-order: languages   # not hide-keys: that hides single stats
+          max-languages: 8            # not language-count
 
-  # ---- trophies, rendered in-workflow instead of via the Vercel service ----
+  # ---- trophies -----------------------------------------------------------
+  # continue-on-error so a break in this fork's feature branch doesn't stop
+  # the activity job from running.
   trophy:
     needs: stats
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
       - uses: actions/checkout@v4
 
@@ -65,9 +55,10 @@ jobs:
           commit_message: "chore: update trophy"
           file_pattern: images/trophy.svg
 
-  # ---- metrics infographic + contribution snake ----------------------------
+  # ---- metrics infographic + contribution snake ---------------------------
   activity:
     needs: trophy
+    if: always()
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -76,10 +67,7 @@ jobs:
         with:
           token: ${{ secrets.PROFILE_TOKEN }}
           user: kerolosxgad
-          filename: images/metrics.svg
-          # Write to disk only. Without this, metrics commits via the GitHub
-          # API, the remote moves ahead of this checkout, and the commit step
-          # below fails with a non-fast-forward rejection.
+          filename: metrics.svg
           output_action: none
           template: classic
           base: activity, community, repositories
@@ -88,12 +76,18 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
 
+      # output_action: none writes to /metrics_renders/, NOT the workspace.
+      # Without this copy there is nothing for git to commit.
+      - name: Move render into the repo
+        run: |
+          mkdir -p images
+          cp /metrics_renders/metrics.svg images/metrics.svg
+
       - uses: Platane/snk@v3
         with:
           github_user_name: kerolosxgad
           outputs: images/snake.svg
 
-      # One commit for both SVGs.
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: update activity graphs"
