@@ -1,33 +1,93 @@
 # Hi 👋, I'm Kerolos Gad
 
-### Software Engineer & Tech Consultant 
+### Software Engineer & Tech Consultant
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kerolosxgad&label=Profile views&color=0e75b6&style=flat" alt="kerolosxgad" /> </p>
+- 📫 Reach me at **contact@kerolosxgad.com**
+- 👨‍💻 Projects: **[kerolosxgad.com](https://www.kerolosxgad.com)**
+- 📝 I write at **[kerolosxgad.com/writing](https://www.kerolosxgad.com/writing)**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kerolosxgad" alt="kerolosxgad" /></a> </p>
+### Connect
 
-<p align="left"> <a href="https://twitter.com/kerolosxgad" target="blank"><img src="https://img.shields.io/twitter/follow/kerolosxgad?logo=twitter&style=for-the-badge" alt="kerolosxgad" /></a> </p>
+<!-- shields.io (badges/shields, open source) - static badges, no upstream API to fail -->
+[![Website](https://img.shields.io/badge/Website-kerolosxgad.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kerolosxgad.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kerolosxgad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kerolosxgad)
+[![GitHub](https://img.shields.io/badge/GitHub-kerolosxgad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kerolosxgad)
+[![X](https://img.shields.io/badge/X-@kerolosxgad-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kerolosxgad)
+[![Instagram](https://img.shields.io/badge/Instagram-kerolosxgad-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kerolosxgad)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kerolosxgad)
 
-- 📫 How to reach me **contact@kerolosxgad.com**
+### Languages and Tools
 
-- 👨‍💻 All of my projects are available at **[https://www.kerolosxgad.com](https://www.kerolosxgad.com)**
-
-- 📝 I regularly write articles on **[https://www.kerolosxgad.com/writing](https://www.kerolosxgad.com/writing)**
-
-<h3 align="left">Connect with me:</h3>
+<!--
+  devicons/devicon + simple-icons, served from jsDelivr.
+  Both are open source icon sets and jsDelivr is a static CDN:
+  no GitHub API call, no token, nothing to rate-limit.
+-->
 <p align="left">
-<a href="https://github.com/kerolosxgad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="kerolosxgad" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kerolosxgad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerolosxgad" height="30" width="40" /></a>
-<a href="https://fb.com/kerolosxgad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kerolosxgad" height="30" width="40" /></a>
-<a href="https://instagram.com/kerolosxgad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kerolosxgad" height="30" width="40" /></a>
-<a href="https://twitter.com/kerolosxgad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kerolosxgad" height="30" width="40" /></a>
-<a href="https://discord.gg/kerolosxgad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kerolosxgad" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="aws" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" height="40" alt="terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" alt="grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="git" />
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="php" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="laravel" />
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" width="40" height="40" alt="mariadb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="mssql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="firebase" />
+</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="nextjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="vuejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="40" height="40" alt="nuxtjs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" height="40" alt="svelte" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="40" height="40" alt="electron" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40" alt="postman" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gatsby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gatsby" alt="gatsby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nuxtjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nuxtjs" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/svelte" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerolosxgad&show_icons=true&locale=en&layout=compact" alt="kerolosxgad" /></p>
+<!--
+  Everything below is a local .svg file in THIS repo, regenerated daily by
+  .github/workflows/profile.yml. No live third-party service is contacted when
+  someone loads your profile, so nothing can rate-limit or 502 on you.
+-->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerolosxgad&show_icons=true&locale=en" alt="kerolosxgad" /></p>
+### Stats — cicirello/user-statistician
 
+<img src="./images/userstats.svg" width="49%" alt="GitHub stats" />
+<img src="./images/langs.svg" width="49%" alt="Top languages" />
+
+### Trophies — ryo-ma/github-profile-trophy (action mode)
+
+<img src="./images/trophy.svg" alt="trophies" />
+
+### Activity — lowlighter/metrics + Platane/snk
+
+<img src="./images/metrics.svg" alt="metrics" />
+
+<img src="./images/snake.svg" alt="contribution snake" />
