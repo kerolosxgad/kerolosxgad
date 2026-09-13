@@ -79,8 +79,6 @@
 
 <img src="./images/userstats.svg" alt="stats" />
 
-<img src="./images/trophy.svg" alt="trophies" />
-
 <img src="./images/metrics.svg" alt="activity" />
 
 <img src="./images/snake.svg" alt="contributions" />
