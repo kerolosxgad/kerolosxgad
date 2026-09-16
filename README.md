@@ -67,15 +67,3 @@
 </details>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="./images/userstats.svg" alt="stats" />
-
-<img src="./images/metrics.svg" alt="activity" />
-
-<img src="./images/snake.svg" alt="contributions" />
-
-</div>
