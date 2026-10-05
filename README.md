@@ -2,7 +2,7 @@
 
 # Kerolos Gad
 
-**Senior Software Engineer | Backend, Cloud & Security
+##Senior Software Engineer | Backend, Cloud & Security
 
 [![Website](https://img.shields.io/badge/kerolosxgad.com-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kerolosxgad.com)
 [![Writing](https://img.shields.io/badge/Writing-1a1a1a?style=for-the-badge&logo=readme&logoColor=white)](https://www.kerolosxgad.com/writing)
